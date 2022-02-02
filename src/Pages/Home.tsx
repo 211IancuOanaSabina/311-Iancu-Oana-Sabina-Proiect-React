@@ -51,6 +51,9 @@ function Home() {
                 </p>
                 <div id = "footer">
                    <img src={ require("../Assets/Images/dubai.jpg") } id="Shanghai" alt="logo" />
+                   Contact us: <br></br>
+                   <p>email: <a type="email" href="travelingTicTacToe@gmail.com"> travelingTicTacToe@gmail.com</a></p>
+                   <p>phone: <a type="phone" > 0712345678</a></p>
                     <Footer />  
                 </div>
             </div>

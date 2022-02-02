@@ -6,7 +6,7 @@ export default class Footer extends Component{
         return (
         <div id = "footer">
             <footer>
-               Informatii importante
+              Thank you for being a part of our team
             </footer>
         </div>
         );
