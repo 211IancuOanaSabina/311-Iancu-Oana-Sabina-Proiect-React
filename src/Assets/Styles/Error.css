@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+
+    /*font-family: 'Special Elite', cursive;*/
+
+    font-family: 'Neucha', cursive;
+}
+
+
+#fundal{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    overflow: hidden;
+}
+
+h1{
+    top: 8%;
+    left: 45%;
+    position: absolute;
+    color: navy;
+}
+
+#bg{
+    position: absolute;
+    background-color: rgba(253, 235, 230, 0.9);
+    text-align: left;
+    padding: 3%;
+    top: 25%;
+    left: 20%;
+}
+
+#home{
+    left:5%;
+    color:purple;
+}

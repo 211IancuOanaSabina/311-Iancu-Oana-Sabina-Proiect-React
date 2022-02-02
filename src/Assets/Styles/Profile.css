@@ -1,0 +1,61 @@
+#profile{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    overflow: hidden;
+}
+
+#profile{
+    color: rgba(251, 60, 159, 1);
+}
+
+#update{
+    color: rgba(203, 4, 250, 1);
+}
+
+@media screen and (max-width: 600px) {
+    #forms2{
+        position: absolute;
+        background-color: rgba(208, 186, 204, 0.8);
+        text-align: center;
+        padding: 5%;
+        top: 30%;
+        left: 20%;
+    }
+    .logout{
+        position: absolute;
+        font-style: normal;
+        color: white;
+    }
+}
+@media screen and (min-width:601px) {
+    #forms2{
+        position: absolute;
+        background-color: rgba(208, 186, 204, 0.8);
+        text-align: center;
+        padding: 5%;
+        top: 30%;
+        left: 30%;
+    }
+    .logout{
+        position: absolute;
+        font-style: normal;
+        color: white;
+    }
+}
+@media screen and (min-width:1201px) {
+    #forms2{
+        position: absolute;
+        background-color: rgba(206, 190, 203, 0.8);
+        text-align: center;
+        padding: 5%;
+        top: 20%;
+        left: 15%;
+    }
+    .logout{
+        position: absolute;
+        font-style: normal;
+        color: white;
+    }
+   
+}

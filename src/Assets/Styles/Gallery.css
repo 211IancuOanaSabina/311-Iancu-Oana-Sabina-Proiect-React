@@ -1,0 +1,15 @@
+h1{
+    color: rgba(249, 35, 146, 1);
+    position: relative;
+}
+
+body{
+    text-align: center;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+
+    /*font-family: 'Special Elite', cursive;*/
+
+    font-family: 'Neucha', cursive;
+}

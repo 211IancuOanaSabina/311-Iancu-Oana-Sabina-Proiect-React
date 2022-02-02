@@ -1,0 +1,74 @@
+#register{
+    width: 100%;
+    height: 105vh;
+    background-size: cover;
+    overflow: hidden;
+}
+
+#login1{
+    color:rgba(164, 7, 56, 1)
+}
+
+body{
+    text-align: center;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+
+    /*font-family: 'Special Elite', cursive;*/
+
+    font-family: 'Neucha', cursive;
+}
+
+
+@media screen and (max-width: 600px) {
+    #forms{
+        position: absolute;
+        background-color: rgba(253, 235, 230, 0.9);
+        text-align: center;
+        padding: 5%;
+        top: 30%;
+        left: 20%;
+    }
+    .Home1{
+        position: absolute;
+        font-style: normal;
+        color: white;
+        left:3%;
+        top:93%;
+    }
+}
+@media screen and (min-width:601px) {
+    #forms{
+        position: absolute;
+        background-color: rgba(253, 235, 230, 0.9);
+        text-align: center;
+        padding: 5%;
+        top: 30%;
+        left: 30%;
+    }
+    .Home1{
+        position: absolute;
+        font-style: normal;
+        color: white;
+        left:7%;
+        top:93%;
+    }
+}
+@media screen and (min-width:1201px) {
+    #forms{
+        position: absolute;
+        background-color: rgba(253, 235, 230, 0.9);
+        text-align: center;
+        padding: 5%;
+        top: 30%;
+        left: 35%;
+    }
+    .Home1{
+        position: absolute;
+        font-style: normal;
+        color: white;
+        left:9%;
+        top:93%;
+    }
+}

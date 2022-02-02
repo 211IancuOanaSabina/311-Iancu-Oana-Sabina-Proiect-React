@@ -1,0 +1,113 @@
+body{
+    text-align: center;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+
+    /*font-family: 'Special Elite', cursive;*/
+
+    font-family: 'Neucha', cursive;
+}
+
+a{
+    text-decoration: none;
+    color: azure;
+}
+
+#Title1{
+    position: absolute;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    right: 30%;
+    left: 30%;
+    top: 30%;
+    color: whitesmoke;
+    font-size: 300%;
+}
+
+.Login{
+    position: absolute;
+    text-align: right;
+    left: 90%;
+    bottom: 90%;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 100%;
+    border: none;
+    font-family: 'Neucha', cursive;
+}
+
+.Album1{
+    position: absolute;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    right: 0%;
+    left: 80%;
+    bottom: 0.8%;
+    color: white;
+    font-size: 125%;
+    font-weight: bold;
+    border: none;
+    font-family: 'Neucha', cursive;  
+    background-color: rgba(35, 35, 137, 0.69);
+}
+
+.Moto{
+    position: absolute;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    right: 10%;
+    left: 10%;
+    bottom: 40%;
+    color: whitesmoke;
+    font-size: 200%;
+}
+
+#Dubai{
+    width:100%;
+    height:auto;
+}
+#Info1{
+    background-color: orange;
+    color: azure;
+    text-align: center;
+}
+
+p{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#Paris{
+    width:100%;
+    height:auto;
+}
+#Info2{
+    background-color: navy;
+    color: azure;
+    text-align: center;
+}
+
+#NewYork{
+    width:100%;
+    height:auto;
+}
+#Info3{
+    background-color: pink;
+    color: purple;
+    text-align: center;
+}
+
+#footer{
+    background-color: salmon;
+    text-align: center;
+    color: azure;
+}
+
+#Shanghai{
+    width: 100%;
+    height: auto;
+}
